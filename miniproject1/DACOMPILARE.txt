@@ -1,0 +1,5 @@
+# Compilare questo file prima di inviare il progetto
+NOME: Alex
+COGNOME: Citeroni
+MATRICOLA: 100625
+ANNO DI ISCRIZIONE AL PRIMO ANNO: 2017/2018

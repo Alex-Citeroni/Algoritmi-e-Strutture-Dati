@@ -1,0 +1,6 @@
+# Compilare questo file prima di inviare il progetto
+NOME: Alex
+COGNOME: Citeroni
+MATRICOLA: 100625
+EMAIL UNICAM: alex.citeroni@studenti.unicam.it
+ANNO DI ISCRIZIONE AL PRIMO ANNO: 2017
